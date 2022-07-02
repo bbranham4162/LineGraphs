@@ -1,5 +1,9 @@
 # PolarGraphs
 
++1 Hr Spent about an hour trying to come up with a design, looked at other coding projects to figure out how I can create classes that'll run my code smoothly.
+
+
+
 +1 Hr 
 Looked up videos for creating graphs could not find any videos describing how to create graphs with coding so started looking into Raylib
 
@@ -22,3 +26,16 @@ Figure out how to Draw a circle and that the window stays open as long as the pr
 3. Figure out how to graph a line when given a function in C#
 
 *** Figured out how to Graph a line
+
++ 3 Hours I learned that by typing console.Readkey I could keep my program running until someone pressed any button to stop the program
+
+- learned I can create a list to hold all my values that will enter into my function
+
+? Ran into a snare where I struggled to figure out how I could enter a function as a parameter instead of an integer greatly hindering the types of functions I could create.
+
+? Tried changing my window to allow for negative functions but couldn't figure out how 
+
+- Created VideoService Class and added functions to graph a line, graphing pixels for every value
+
+- Created parameter that allows for user to change the power of the function
+
